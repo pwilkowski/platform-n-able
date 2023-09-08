@@ -31,7 +31,7 @@
     "framework-n-able-arduino": {
       "type": "framework",
       "optional": false,
-      "version": "https://github.com/h2zero/n-able-Arduino.git"
+      "version": "https://github.com/pwilkowski/n-able-Arduino.git"
     },
     "toolchain-gccarmnoneeabi": {
       "type": "toolchain",
